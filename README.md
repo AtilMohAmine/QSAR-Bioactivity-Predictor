@@ -46,7 +46,7 @@ The QSAR-Bioactivity-Predictor application provides the following features:
 If you want to contribute to QSAR-Bioactivity-Predictor, feel free to fork the repository and submit a pull request with your changes.
 
 ## License
-QSAR-Bioactivity-Predictor is licensed under the MIT License. See the LICENSE file for more information.
+QSAR-Bioactivity-Predictor is licensed under the MIT License. See the [LICENSE](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor/blob/main/LICENCE) file for more information.
 
 ## Acknowledgments
 - The QSAR Bioactivity Predictor application was developed as a final project for a Master's degree.
