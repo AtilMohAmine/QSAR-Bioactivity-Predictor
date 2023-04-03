@@ -1,5 +1,5 @@
 # QSAR Bioactivity Predictor
-QSAR-Bioactivity-Predictor is a Python application built with PyQt5 that allows users to create QSAR models to predict bioactivity for a specific target.
+QSAR Bioactivity Predictor is a Python application built with PyQt5 that allows users to create QSAR models to predict bioactivity for a specific target.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/86023602/229597174-c3f4e2b4-8c86-4a21-a025-9be3fbea6f6a.png" width="600px" /></p>
 
