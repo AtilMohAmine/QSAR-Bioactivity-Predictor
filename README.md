@@ -1,6 +1,8 @@
 # QSAR Bioactivity Predictor
 QSAR-Bioactivity-Predictor is a Python application built with PyQt5 that allows users to create QSAR models to predict bioactivity for a specific target.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/86023602/229597174-c3f4e2b4-8c86-4a21-a025-9be3fbea6f6a.png" width="600px" /></p>
+
 ## Installation
 To use QSAR-Bioactivity-Predictor, you need to have Python 3.x installed on your system. You also need to install the following Python packages:
 - chembl-webresource-client==0.10.8
@@ -29,9 +31,15 @@ This will open the main window of the application, where you can select a target
 ## Features
 The QSAR-Bioactivity-Predictor application provides the following features:
 - Load data using Chembl webresource client containing molecular descriptors and bioactivity values for a specific target.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/86023602/229595709-ad887bde-a643-4375-8611-030409be339a.png" width="500px" /></p>
+
 - Preprocess the data by removing missing values and normalizing the descriptors.
 - Train a QSAR model using random forest regressor
 - Plot the experimental versus predicted pIC50 values.
+- Predict pIC50 values of input SMILES CSV.
+<p align="center"><img src="https://user-images.githubusercontent.com/86023602/229595826-02639cc3-57b2-434c-9213-31e778986699.png" /></p>
+
 - Save the model to a file for later use.
 
 ## Contributing
