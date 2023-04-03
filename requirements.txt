@@ -1,0 +1,10 @@
+chembl-webresource-client==0.10.8
+numpy==1.24.2
+pandas==1.5.3
+PyQt5==5.15.9
+pyqt5-plugins==5.15.9.2.3
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.1
+rdkit==2022.9.5
+scikit-learn==1.2.2
+seaborn==0.12.2
