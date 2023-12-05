@@ -45,10 +45,27 @@ The QSAR-Bioactivity-Predictor application provides the following features:
 ## Contributing
 If you want to contribute to QSAR-Bioactivity-Predictor, feel free to fork the repository and submit a pull request with your changes.
 
-## License
-QSAR-Bioactivity-Predictor is licensed under the MIT License. See the [LICENSE](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor/blob/main/LICENCE) file for more information.
-
 ## Acknowledgments
 - The QSAR Bioactivity Predictor application was developed as a final project for a Master's degree.
 - The application uses the PaDEL-Descriptor to calculate molecular descriptors from chemical structures.
 - The QSAR models were trained using the scikit-learn library.
+
+## Citation
+
+If you find this project useful in your research, please consider citing our paper:
+
+[Amine, A.M.E., Fadila, A. Transformer neural network for protein-specific drug discovery and validation using QSAR. J Proteins Proteom (2023). https://doi.org/10.1007/s42485-023-00124-6](https://link.springer.com/article/10.1007/s42485-023-00124-6)
+
+### BibTeX:
+```bibtex
+@article{AmineFadila2023,
+  author    = {Amine, A.M.E. and Fadila, A.},
+  title     = {Transformer neural network for protein-specific drug discovery and validation using QSAR},
+  journal   = {Journal of Proteins and Proteomics},
+  year      = {2023},
+  doi       = {10.1007/s42485-023-00124-6}
+}
+```
+
+## License
+QSAR-Bioactivity-Predictor is licensed under the MIT License. See the [LICENSE](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor/blob/main/LICENCE) file for more information.
